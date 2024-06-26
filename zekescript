@@ -1,2 +1,4 @@
-while true do 
-end 
+while true do
+    game:GetService("Players").LocalPlayer:Kick("NIGGA REALLY THOUGHT SO U DUMBASS")
+    wait(1) 
+end
